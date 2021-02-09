@@ -1,0 +1,15 @@
+current directory: /home/react/micro/anything_api/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.2/ext/bootsnap
+/home/react/.rvm/rubies/ruby-2.7.0/bin/ruby -I /home/react/.rvm/rubies/ruby-2.7.0/lib/ruby/2.7.0 -r ./siteconf20210209-8128-1cnlbyj.rb extconf.rb
+creating Makefile
+
+current directory: /home/react/micro/anything_api/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.2/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /home/react/micro/anything_api/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.2/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/react/micro/anything_api/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.2/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -m 0755 bootsnap.so ./.gem.20210209-8128-1t7osy/bootsnap
